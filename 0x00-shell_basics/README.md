@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format
+0x00-shell_basics
